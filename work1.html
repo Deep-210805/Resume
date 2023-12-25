@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width", initial-scale=1.0">
+    <meta name="viewport" content="width", initial-scale="1.0">
     <title>Resume</title>
     <link rel="icon" type="img" href="Deep.jpg">
 </head>
@@ -24,7 +24,7 @@
     </div>
     <div style="display: flex;">
         <p>
-          <div > <img src="Deep.jpg" style="width :130px;height: 100px; border: solid;border-color:gray;" ></div> 
+          <div > <img src="Deep.jpg" style="width :130px;height: 130px; border: solid;border-color:gray;" ></div> 
            <p style="width: 500px;"> I am a passionate engineer with expertise in problem solving and algorthmic thinking.I love to explore various technologies and framework to develop scalable and efficient solutions with a strong foundation. </p>
              </p>
     </div>
