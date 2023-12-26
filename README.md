@@ -20,7 +20,7 @@
         }
         .heading{
             position: relative;
-            left :500px;
+            left :400px;
         }
     </style>
 </head>
@@ -34,7 +34,7 @@
     <p>Name</p>
     <input type="text" placeholder="Enter your name :" width="95%">
     <p>Phone number</p>
-    <input type="tel" placeholder="Enter phone number :"width="95%">
+    <input type="tel" placeholder="Enter phone number :">
     <p> Enter Your date of birth :</p>
     <input type="date"width="95%">
 </div>
