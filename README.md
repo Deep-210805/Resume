@@ -16,11 +16,7 @@
         .outerpage{
             border: solid black;
             background-color:gray;
-            box-shadow : 13px 18px 20px rgba(2,2,3,0.7);
-        }
-        .heading{
-            position: relative;
-            left :400px;
+            box-shadow : 9px 13px 14px rgba(1,1,3,0.7);
         }
     </style>
 </head>
@@ -85,7 +81,7 @@ Is online study helpful for you ?
     <p>
         Would you want to give any suggestion to your juniors :
     </p>
-    <textarea placeholder="write 3,4 lines from your Experience..." cols="40" rows="8"></textarea>
+    <textarea placeholder="write 3,4 lines from your Experience..." cols="20" rows="6"></textarea>
 </div><br>
 <br>
 <div id="Submit">
