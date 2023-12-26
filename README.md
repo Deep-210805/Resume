@@ -36,7 +36,7 @@
     <p>Phone number</p>
     <input type="tel" placeholder="Enter phone number :">
     <p> Enter Your date of birth :</p>
-    <input type="date"width="95%">
+    <input type="date">
 </div>
 <div id="pursuing">
 <p>
